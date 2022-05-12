@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640962794 source:c:\users\hp 840\desktop\lms\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+
